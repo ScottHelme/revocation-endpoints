@@ -1,6 +1,6 @@
 # CRL Server Blocklist
 #
-# Created by Scott Helme - 5th March 2020 10:10 UTC
+# Created by Scott Helme - 13th November 2020 12:55 UTC
 # https://scotthelme.co.uk/
 # https://twitter.com/Scott_Helme
 #
@@ -343,7 +343,6 @@
 127.0.0.1 crl.global.lmco.com
 127.0.0.1 crl.globalsign.com
 127.0.0.1 crl.globalsign.net
-127.0.0.1 crl.globalsign.net
 127.0.0.1 crl.globalssl.org
 127.0.0.1 crl.globaltrust.it
 127.0.0.1 crl.globessl.com
@@ -511,7 +510,6 @@
 127.0.0.1 crl.tbs-x509.com
 127.0.0.1 crl.tcclass1.trustcenter.de
 127.0.0.1 crl.tcclass2-ii.trustcenter.de
-127.0.0.1 crl.tcclass2-ii.trustcenter.de
 127.0.0.1 crl.tcclass2.trustcenter.de
 127.0.0.1 crl.tcclass3-ii.trustcenter.de
 127.0.0.1 crl.tcclass3.trustcenter.de
@@ -659,7 +657,6 @@
 127.0.0.1 evcs-crl.ws.symantec.com
 127.0.0.1 evintl-crl.verisign.com
 127.0.0.1 evintl-t1-crl.verisign.com
-127.0.0.1 evsecure-crl.geotrust.com
 127.0.0.1 evsecure-crl.geotrust.com
 127.0.0.1 evsecure-crl.verisign.com
 127.0.0.1 evsecuredsa-crl.ws.symantec.com
@@ -822,7 +819,6 @@
 127.0.0.1 ldap.anf.es
 127.0.0.1 ldapape.cert.fnmt.es
 127.0.0.1 ldap.a-trust.at
-127.0.0.1 ldap.a-trust.at
 127.0.0.1 ldap.buypass.no
 127.0.0.1 ldap.ca.bancaintesa.it
 127.0.0.1 ldap.ca.certicomm.it
@@ -841,7 +837,6 @@
 127.0.0.1 ldap.click-and-trust.com
 127.0.0.1 ldapcomp.cert.fnmt.es
 127.0.0.1 ldap.comtrust.co.ae
-127.0.0.1 ldap-cpki1.telekom.de
 127.0.0.1 ldap-cpki1.telekom.de
 127.0.0.1 ldap-cpki.telekom.de
 127.0.0.1 ldap.crl.esecure.datev.de
@@ -1140,7 +1135,6 @@
 127.0.0.1 sf.symcb.com
 127.0.0.1 sg1.symcb.com
 127.0.0.1 sg.symcb.com
-127.0.0.1 sg.symcb.com
 127.0.0.1 sh1.symcb.com
 127.0.0.1 shenzhendv.crl.certum.pl
 127.0.0.1 shenzhenev.crl.certum.pl
@@ -1213,14 +1207,12 @@
 127.0.0.1 svrintl-g2-1024-crl.verisign.com
 127.0.0.1 svrintl-g2-crl.verisign.com
 127.0.0.1 svrintl-g3-crl.verisign.com
-127.0.0.1 svrintl-g3-crl.verisign.com
 127.0.0.1 svrintl-t1-crl.verisign.com
 127.0.0.1 svr-ov-crl.thawte.com
 127.0.0.1 svr-rapidssl-crl.rapidssl.com
 127.0.0.1 svrsecure-crl.verisign.com
 127.0.0.1 svrsecuredsa-crl.ws.symantec.com
 127.0.0.1 svrsecure-g2-crl.verisign.com
-127.0.0.1 svrsecure-g3-crl.verisign.com
 127.0.0.1 svrsecure-g3-crl.verisign.com
 127.0.0.1 svrsecure-oracle-crl.verisign.com
 127.0.0.1 svrsecuresha256-crl.ws.symantec.com
@@ -1282,7 +1274,6 @@
 127.0.0.1 u03.scandtrust.se
 127.0.0.1 uispki.unisys.com
 127.0.0.1 ura.procert.net.ve
-127.0.0.1 uspto-dcdns-01.uspto.gov
 127.0.0.1 uspto-dcdns-01.uspto.gov
 127.0.0.1 validation-dev.identrust.com
 127.0.0.1 validation.identrust.com

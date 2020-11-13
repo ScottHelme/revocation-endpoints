@@ -1,6 +1,6 @@
 # OCSP Responder Blocklist
 #
-# Created by Scott Helme - 4th March 2020 21:27 UTC
+# Created by Scott Helme - 13th November 2020 12:55 UTC
 # https://scotthelme.co.uk/
 # https://twitter.com/Scott_Helme
 #
@@ -50,7 +50,6 @@
 127.0.0.1 classic.ocsp.certigna.fr
 127.0.0.1 classic.ocsp.dhimyotis.com
 127.0.0.1 clients1.google.com
-127.0.0.1 commercial.ocsp.identrust.com
 127.0.0.1 commercial.ocsp.identrust.com
 127.0.0.1 corporate-pki.telekom.de
 127.0.0.1 crl2.e-certchile.cl
@@ -104,7 +103,6 @@
 127.0.0.1 ev256secureecc-ocsp.ws.symantec.com
 127.0.0.1 ev2.ocsp.secomtrust.net
 127.0.0.1 eva.orc.com
-127.0.0.1 eva.orc.com
 127.0.0.1 evca2.ocsp.certum.pl
 127.0.0.1 evca.ocsp.certum.pl
 127.0.0.1 evca.ocsp.gdl.ssc.lt
@@ -128,7 +126,6 @@
 127.0.0.1 ev-sha256-ocsp.thawte.com
 127.0.0.1 evssl-ocsp.geotrust.com
 127.0.0.1 evssl_ocsp.twca.com.tw
-127.0.0.1 evsslocsp.twca.com.tw
 127.0.0.1 evsslocsp.twca.com.tw
 127.0.0.1 extwebra-pte.actalis.it
 127.0.0.1 fa.symcd.com
@@ -285,7 +282,6 @@
 127.0.0.1 ocsp07.actalis.it
 127.0.0.1 ocsp09.actalis.it
 127.0.0.1 ocsp1.comsign.co.il
-127.0.0.1 ocsp1.comsign.co.il
 127.0.0.1 ocsp1.com-strong-id.net
 127.0.0.1 ocsp1.crosscert.com
 127.0.0.1 ocsp1.digicert.com
@@ -304,7 +300,6 @@
 127.0.0.1 ocsp1.trustisfps.com
 127.0.0.1 ocsp1.uanataca.com
 127.0.0.1 ocsp1.wosign.com
-127.0.0.1 ocsp1.wosign.com
 127.0.0.1 ocsp2.digicert.com
 127.0.0.1 ocsp2.e-guven.com
 127.0.0.1 ocsp2.esfirma.com
@@ -319,12 +314,9 @@
 127.0.0.1 ocsp2.rcsc.lt
 127.0.0.1 ocsp2.siths.sjunet.org
 127.0.0.1 ocsp2.ssc.lt
-127.0.0.1 ocsp2.ssc.lt
 127.0.0.1 ocsp2.trustcor.ca
 127.0.0.1 ocsp2.uanataca.com
 127.0.0.1 ocsp2.wisekey.com
-127.0.0.1 ocsp2.wisekey.com
-127.0.0.1 ocsp2.wosign.cn
 127.0.0.1 ocsp2.wosign.cn
 127.0.0.1 ocsp2.wosign.com
 127.0.0.1 ocsp3.gdca.com.cn
@@ -345,14 +337,12 @@
 127.0.0.1 ocsp.accv.es
 127.0.0.1 ocsp.acedicom.edicomgroup.com
 127.0.0.1 ocsp.a-cert.at
-127.0.0.1 ocsp.a-cert.at
 127.0.0.1 ocsp-ac-prodemge-ssl.ac.prodemge.gov.br
 127.0.0.1 ocsp.acraiz.suscerte.gob.ve
 127.0.0.1 ocsp.acsafeweb.com.br
 127.0.0.1 ocsp.acsoluti.com.br
 127.0.0.1 ocsp.actalis.it
 127.0.0.1 ocsp.adif.es
-127.0.0.1 ocsp.affirmtrust.com
 127.0.0.1 ocsp.affirmtrust.com
 127.0.0.1 ocsp.alfasign.ro
 127.0.0.1 ocsp.allscripts.com
@@ -371,11 +361,9 @@
 127.0.0.1 ocsp.auc.cartaodecidadao.pt
 127.0.0.1 ocsp.bechtel.com
 127.0.0.1 ocsp-b.pki.wayport.net
-127.0.0.1 ocsp-b.pki.wayport.net
 127.0.0.1 ocsp.b-trust.org
 127.0.0.1 ocsp.buypass.com
 127.0.0.1 ocsp.buypass.no
-127.0.0.1 ocsp.cacert.org
 127.0.0.1 ocsp.cacert.org
 127.0.0.1 ocsp.ca.digidentity.com
 127.0.0.1 ocsp.ca.gov.si
@@ -394,7 +382,6 @@
 127.0.0.1 ocsp.certificadodigital.com.br
 127.0.0.1 ocsp.certificat.com
 127.0.0.1 ocsp.certificateservices.eads.com
-127.0.0.1 ocsp.certification.tn
 127.0.0.1 ocsp.certification.tn
 127.0.0.1 ocsp.certificazione.bancaditalia.it
 127.0.0.1 ocsp.certifikat.dk
@@ -439,7 +426,6 @@
 127.0.0.1 ocsp.dhhs.gov
 127.0.0.1 ocsp.digicert-cn.com
 127.0.0.1 ocsp.digicert.com
-127.0.0.1 ocsp.digicert.com
 127.0.0.1 ocsp.digidentity.eu
 127.0.0.1 ocsp.digi-sign.com
 127.0.0.1 ocsp.digisign.ro
@@ -452,18 +438,15 @@
 127.0.0.1 ocsp.dnielectronico.es
 127.0.0.1 ocsp.dpdhl.com
 127.0.0.1 ocsp.dpwn.net
-127.0.0.1 ocsp.dpwn.net
 127.0.0.1 ocsp.dreamhost.com
 127.0.0.1 ocsp.eca.hinet.net
 127.0.0.1 ocsp.ecce.gov.pt
 127.0.0.1 ocsp.ecee.gov.pt
 127.0.0.1 ocsp.eid.belgium.be
-127.0.0.1 ocsp.eid.belgium.be
 127.0.0.1 ocsp.elektronicznypodpis.pl
 127.0.0.1 ocsp.e-me.lv
 127.0.0.1 ocsp.eme.lv
 127.0.0.1 ocsp.emsign.com
-127.0.0.1 ocsp.e-mudhra.com
 127.0.0.1 ocsp.e-mudhra.com
 127.0.0.1 ocsp.ensuredca.com
 127.0.0.1 ocsp-ent.pki.wellsfargo.com
@@ -491,7 +474,6 @@
 127.0.0.1 ocsp.ford.com
 127.0.0.1 ocsp.formidablecaservices.com
 127.0.0.1 ocsp-g3.dhl.com
-127.0.0.1 ocsp-g3.dhl.com
 127.0.0.1 ocsp.gandi.net
 127.0.0.1 ocsp.gds.disa.mil
 127.0.0.1 ocsp.ge.com
@@ -499,12 +481,10 @@
 127.0.0.1 ocsp.gendarmerie.fr
 127.0.0.1 ocsp.geotrust.com
 127.0.0.1 ocspglobal01.ipsca.com
-127.0.0.1 ocspglobal01.ipsca.com
 127.0.0.1 ocsp.globalsign.com
 127.0.0.1 ocsp.globalssl.org
 127.0.0.1 ocsp.globaltrust.eu
 127.0.0.1 ocsp.globessl.com
-127.0.0.1 ocsp.godaddy.com
 127.0.0.1 ocsp.godaddy.com
 127.0.0.1 ocsp.govern.ad
 127.0.0.1 ocsp.gtlsca.nat.gov.tw
@@ -535,13 +515,11 @@
 127.0.0.1 ocsp.intra.infocert.it
 127.0.0.1 ocsp.int-x1.letsencrypt.org
 127.0.0.1 ocsp.int-x3.letsencrypt.org
-127.0.0.1 ocsp.int-x3.letsencrypt.org
 127.0.0.1 ocsp.ipsca.com
 127.0.0.1 ocsp.ips.es
 127.0.0.1 ocspisaca.cert.fnmt.es
 127.0.0.1 ocsp.i.tcssl.trustcenter.de
 127.0.0.1 ocsp.iv.tcclass3-ii.trustcenter.de
-127.0.0.1 ocsp.izenpe.com
 127.0.0.1 ocsp.izenpe.com
 127.0.0.1 ocsp-kidca.id.hr
 127.0.0.1 ocspkok3.kamusm.gov.tr
@@ -568,7 +546,6 @@
 127.0.0.1 ocsp.nestle.com
 127.0.0.1 ocsp.netsolssl.com
 127.0.0.1 ocsp.northropgrumman.com
-127.0.0.1 ocsp.northropgrumman.com
 127.0.0.1 ocsp.nrca-ds.de
 127.0.0.1 ocsp.nrca.go.th
 127.0.0.1 ocsp.nsn0.rcvs.gds.disa.mil
@@ -586,20 +563,16 @@
 127.0.0.1 ocsp.pki.auth.gr
 127.0.0.1 ocsp.pki.bayern.de
 127.0.0.1 ocsp.pki.belgium.be
-127.0.0.1 ocsp.pki.belgium.be
-127.0.0.1 ocsp-pki.certinomis.com
 127.0.0.1 ocsp-pki.certinomis.com
 127.0.0.1 ocsp-pki.defence.gov.au
 127.0.0.1 ocsppkiff.difesa.it
 127.0.0.1 ocsp.pki.goog
-127.0.0.1 ocsp.pki.gov.kz
 127.0.0.1 ocsp.pki.gov.kz
 127.0.0.1 ocsp.pki.gva.es
 127.0.0.1 ocsp.pkioverheid.nl
 127.0.0.1 ocsp.pki-services.siemens.com
 127.0.0.1 ocsp.pki.state.gov
 127.0.0.1 ocsp.pki.va.gov
-127.0.0.1 ocsp.pki.wayport.net
 127.0.0.1 ocsp.pki.wayport.net
 127.0.0.1 ocsp.posdigicert.com.my
 127.0.0.1 ocsp.posta.si
@@ -610,13 +583,11 @@
 127.0.0.1 ocsp.qpay123.com
 127.0.0.1 ocsp-q.s-trust.de
 127.0.0.1 ocsp.quovadisglobal.com
-127.0.0.1 ocsp.quovadisglobal.com
 127.0.0.1 ocsp.quovadisoffshore.com
 127.0.0.1 ocsp-rca.navercorp.com
 127.0.0.1 ocsp.rcsc.lt
 127.0.0.1 ocsp.redabogacia.org
 127.0.0.1 ocsp.register.com
-127.0.0.1 ocsp.registradores.org
 127.0.0.1 ocsp.registradores.org
 127.0.0.1 ocsprep.cert.fnmt.es
 127.0.0.1 ocsp.rootca1.amazontrust.com
@@ -671,9 +642,7 @@
 127.0.0.1 ocsps.ssl.com
 127.0.0.1 ocsp.stampit.org
 127.0.0.1 ocsp.starfieldtech.com
-127.0.0.1 ocsp.starfieldtech.com
 127.0.0.1 ocsp.startcomca.com
-127.0.0.1 ocsp.startssl.com
 127.0.0.1 ocsp.startssl.com
 127.0.0.1 ocsp-stg.harica.gr
 127.0.0.1 ocsp-sub1.lgpki.jp
@@ -681,7 +650,6 @@
 127.0.0.1 ocsp.suscerte.gob.ve
 127.0.0.1 ocspsv.intra.infocert.it
 127.0.0.1 ocsp.swissdigicert.ch
-127.0.0.1 ocsp.swisssign.net
 127.0.0.1 ocsp.swisssign.net
 127.0.0.1 ocsp.symauth.jp
 127.0.0.1 ocsp.taica.com.tw
@@ -701,11 +669,9 @@
 127.0.0.1 ocsp.teste.multicert.com
 127.0.0.1 ocsp.thawte.com
 127.0.0.1 ocsp.tipki.it
-127.0.0.1 ocsp.tipki.it
 127.0.0.1 ocsp.tls.hinet.net
 127.0.0.1 ocsp.tlsroot.pki-lab.gov
 127.0.0.1 ocsp.tradesign.net
-127.0.0.1 ocsp.treas.gov
 127.0.0.1 ocsp.treas.gov
 127.0.0.1 ocsp.treasury.gov
 127.0.0.1 ocsp.trendmicro.com
@@ -717,7 +683,6 @@
 127.0.0.1 ocsp.trustsign.com.br
 127.0.0.1 ocsp.trust.telia.com
 127.0.0.1 ocsp.trust.teliasonera.com
-127.0.0.1 ocsp.trustwave.com
 127.0.0.1 ocsp.trustwave.com
 127.0.0.1 ocspts.identrust.com
 127.0.0.1 ocsp.tsp.zetes.com
@@ -732,11 +697,9 @@
 127.0.0.1 ocsp.validcertificadora.com.br
 127.0.0.1 ocsp.verisign.co.jp
 127.0.0.1 ocsp.verisign.com
-127.0.0.1 ocsp.verisign.com
 127.0.0.1 ocsp.vii.tcclass2.trustcenter.de
 127.0.0.1 ocsp.vii.tcclass3.trustcenter.de
 127.0.0.1 ocsp.vincasign.net
-127.0.0.1 ocsp.visa.com
 127.0.0.1 ocsp.visa.com
 127.0.0.1 ocsp.vr-ident.de
 127.0.0.1 ocsp.vsign.in
@@ -746,7 +709,6 @@
 127.0.0.1 ocsp.web.infocert.it
 127.0.0.1 ocsp.webspace-forum.de
 127.0.0.1 ocsp.windssl.com
-127.0.0.1 ocsp.wisekey.com
 127.0.0.1 ocsp.wisekey.com
 127.0.0.1 ocsp.wosign.com
 127.0.0.1 ocsp.ws.symantec.com
@@ -791,7 +753,6 @@
 127.0.0.1 pki.zf-world.com
 127.0.0.1 platinum-g2.ocsp.swisssign.net
 127.0.0.1 platinum-g3.ocsp.swisssign.net
-127.0.0.1 platinum-g3.ocsp.swisssign.net
 127.0.0.1 portal.actalis.it
 127.0.0.1 portal-pte.actalis.it
 127.0.0.1 postecert.poste.it
@@ -825,7 +786,6 @@
 127.0.0.1 rf.symcd.com
 127.0.0.1 rg.symcd.com
 127.0.0.1 rh.symcd.com
-127.0.0.1 root2.eva.orc.com
 127.0.0.1 root2.eva.orc.com
 127.0.0.1 roota.ocsp.gdl.ssc.lt
 127.0.0.1 rootb.ocsp.gdl.ssc.lt
@@ -921,7 +881,6 @@
 127.0.0.1 ssl.ocsp.luxtrust.lu
 127.0.0.1 ssl-ocsp-pub.gpki.go.kr
 127.0.0.1 sslocsp.twca.com.tw
-127.0.0.1 sslocsp.twca.com.tw
 127.0.0.1 sslpris.ocsp.certigna.fr
 127.0.0.1 sslpris.ocsp.dhimyotis.com
 127.0.0.1 ssocsp.cybertrust.ne.jp
@@ -951,7 +910,6 @@
 127.0.0.1 subadvca1.ocsp.secomtrust.net
 127.0.0.1 subadveccca1.ocsp.secomtrust.net
 127.0.0.1 subca.ocsp-certum.com
-127.0.0.1 subcar0i1-ocsp.disig.sk
 127.0.0.1 subcar0i1-ocsp.disig.sk
 127.0.0.1 subcar1i1-ocsp.disig.sk
 127.0.0.1 subcar2i1-ocsp.disig.sk
@@ -1016,7 +974,6 @@
 127.0.0.1 va.dnbnor.no
 127.0.0.1 va.gracenote.com
 127.0.0.1 validation.diginotar.nl
-127.0.0.1 validator.wellsfargo.com
 127.0.0.1 validator.wellsfargo.com
 127.0.0.1 vassg141.ocsp.omniroot.com
 127.0.0.1 vassg142.ocsp.omniroot.com
