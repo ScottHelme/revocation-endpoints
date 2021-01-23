@@ -1003,7 +1003,6 @@
 127.0.0.1 wtocsp-cdn.itrus.com.cn
 127.0.0.1 www3.postsignum.cz
 127.0.0.1 www.anf.es
-127.0.0.1 www.a-trust.at
 127.0.0.1 www.defence.gov.au
 127.0.0.1 www.dir.esecure.datev.de
 127.0.0.1 www.gdca.com.cn
